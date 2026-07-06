@@ -108,8 +108,7 @@ Motor : OFF
 - B.E Electronics and Communication Engineering (2nd Year)
 - KGiSL Institute of Technology
 - Email: spranesh19072007@gmail.com
-- LinkedIn: linkedin.com/in/pranesh-sathiyanarayanan
-
+- LinkedIn: www.linkedin.com/in/pranesh-sathiya
 
 ---
 
