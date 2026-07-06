@@ -1,5 +1,7 @@
 ## 🔌 Circuit Connections 
-The Smart Irrigation System is built using an **Arduino UNO**, a **soil moisture sensor**, a **5V relay module**, and a **16×2 I2C LCD display**. The Arduino reads the soil moisture level, controls the water pump through the relay, and displays the system status on the LCD. Connect all components as shown below.
+
+The Smart Irrigation System is built using an **Arduino UNO**, a **soil moisture sensor**, a **5V relay module**, and a **16×2 I2C LCD display**. The Arduino reads the soil moisture level, controls the water pump through the relay, and displays 
+the system status on the LCD. Connect all components as shown below.
 
 ---
 
