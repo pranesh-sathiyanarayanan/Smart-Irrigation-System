@@ -174,7 +174,7 @@ Smart-Irrigation-System/
 
 **Pranesh S**
 
-Department of Electronic Cmmunication Engineering
+Department of Electronic Communication Engineering
 
 ---
 
