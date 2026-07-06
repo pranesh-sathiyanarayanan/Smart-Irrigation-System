@@ -1,5 +1,5 @@
 # 🌱 Smart Irrigation System Using Atmospheric Water Generation (AWG)
-
+ 
 ## 📖 Overview
 
 This project is a smart irrigation system that collects water from air using the **condensation principle** and stores it in a water tank. A **soil moisture sensor** continuously monitors the soil, and an **Arduino UNO** automatically controls a water pump to irrigate plants only when the soil becomes dry.
