@@ -98,11 +98,6 @@ Motor : OFF
 - IoT monitoring using ESP8266/ESP32
 - Cloud data logging
 
----
-
-## 📸 Project Preview
-
-(Add your project images here)
 
 ---
 
