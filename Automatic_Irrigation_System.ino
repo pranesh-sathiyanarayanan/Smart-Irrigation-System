@@ -1,7 +1,6 @@
 // Include the required libraries
 #include <Wire.h>                    // Library for I2C communication
 #include <LiquidCrystal_I2C.h>       // Library for I2C LCD display
- 
 // Create an LCD object with I2C address 0x27, 16 columns and 2 rows
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
