@@ -105,7 +105,11 @@ Motor : OFF
 
 **Pranesh S**
 
-Department of Electronic Communication Engineering
+- B.E Electronics and Communication Engineering (2nd Year)
+- KGiSL Institute of Technology
+- Email: spranesh19072007@gmail.com
+- LinkedIn: linkedin.com/in/pranesh-sathiyanarayanan
+
 
 ---
 
