@@ -29,47 +29,6 @@ The system helps conserve water, reduces manual effort, and supports sustainable
 
 ---
 
-## 🛠️ Components Used
-
-- Arduino UNO R3
-- Soil Moisture Sensor (FC-28 / YL-69)
-- 5V Relay Module
-- DC Water Pump
-- 16×2 I2C LCD Display
-- Jumper Wires
-- Breadboard
-- External Power Supply
-
----
-
-## 🔌 Circuit Connections
-
-### Soil Moisture Sensor
-
-| Sensor Pin | Arduino |
-|------------|----------|
-| AO | A0 |
-| VCC | 5V |
-| GND | GND |
-
-### Relay Module
-
-| Relay Pin | Arduino |
-|-----------|----------|
-| IN | D3 |
-| VCC | 5V |
-| GND | GND |
-
-### LCD (I2C)
-
-| LCD Pin | Arduino |
-|---------|----------|
-| SDA | A4 |
-| SCL | A5 |
-| VCC | 5V |
-| GND | GND |
-
----
 
 ## 🚀 Working Principle
 
@@ -105,29 +64,6 @@ or
 ```
 Moisture: 78%
 Motor : OFF
-```
-
----
-
-## 📂 Project Structure
-
-```
-Smart-Irrigation-System/
-│
-├── Arduino_Code/
-│   └── Smart_Irrigation.ino
-│
-├── Circuit_Diagram/
-│   └── circuit.png
-│
-├── Images/
-│   ├── project.jpg
-│   └── setup.jpg
-│
-├── Documentation/
-│   └── Project_Report.pdf
-│
-└── README.md
 ```
 
 ---
