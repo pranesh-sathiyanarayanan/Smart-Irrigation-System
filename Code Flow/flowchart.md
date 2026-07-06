@@ -1,4 +1,4 @@
- Start
+Start
    │
    ▼
 Initialize LCD & Relay
