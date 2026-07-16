@@ -104,7 +104,7 @@ Motor : OFF
 
 **Pranesh S**
 
-Department of Computer Science and Engineering
+Department of electronic communication engineering
 
 ---
 
